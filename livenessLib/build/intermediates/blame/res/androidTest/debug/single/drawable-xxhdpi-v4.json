@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/liveness_phoneimage.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/liveness_phoneimage.png"
+    }
+]

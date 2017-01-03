@@ -1,0 +1,7 @@
+#Tue Jan 03 10:40:39 CST 2017
+base.0=/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d7be2c7b69d8ff7d48d29ee29b44485d65452641
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fab61b066827ee1d028c42d80d9a37b06b461eea/classes.dex
+base.1=/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fab61b066827ee1d028c42d80d9a37b06b461eea
+file.0=/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d7be2c7b69d8ff7d48d29ee29b44485d65452641/classes.dex

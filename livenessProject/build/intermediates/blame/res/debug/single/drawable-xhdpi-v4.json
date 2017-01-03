@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_layout_bottom_tips.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_layout_bottom_tips.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_nothing.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/bg_nothing.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_layout_gradient_back.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_layout_gradient_back.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_head_up.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_head_up.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_eye.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_eye.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_head.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_head.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_faceppinside.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_faceppinside.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_surfacemask.9.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_surfacemask.9.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_head_down.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_head_down.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_head_right.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_head_right.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/loading_background.jpg",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/src/main/res/drawable-xhdpi/loading_background.jpg"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_layout_camera_mask.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_layout_camera_mask.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_layout_head_mask.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_layout_head_mask.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_left.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_left.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_head_left.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_head_left.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_right.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_right.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/liveness_mouth.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/exploded-aar/FaceID_Demo/livenessLib/unspecified/res/drawable-xhdpi-v4/liveness_mouth.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi/result_failded.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/src/main/res/drawable-xhdpi/result_failded.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi/faceid.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/src/main/res/drawable-xhdpi/faceid.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi/result_img_background.9.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/src/main/res/drawable-xhdpi/result_img_background.9.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi/facepp.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/src/main/res/drawable-xhdpi/facepp.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi/circle.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/src/main/res/drawable-xhdpi/circle.png"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/build/intermediates/res/merged/debug/drawable-xhdpi/result_success.png",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessProject/src/main/res/drawable-xhdpi/result_success.png"
+    }
+]

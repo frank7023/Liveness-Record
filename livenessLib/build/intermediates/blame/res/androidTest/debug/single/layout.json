@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessLib/build/intermediates/res/merged/androidTest/debug/layout/liveness_detection_step.xml",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessLib/build/intermediates/bundles/debug/res/layout/liveness_detection_step.xml"
+    },
+    {
+        "merged": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessLib/build/intermediates/res/merged/androidTest/debug/layout/liveness_layout.xml",
+        "source": "/Users/jianghaozhang/AndroidStudioProjects/FaceID_Demo/livenessLib/build/intermediates/bundles/debug/res/layout/liveness_layout.xml"
+    }
+]
